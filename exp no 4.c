@@ -15,4 +15,3 @@ printf("The number is Zero.\n");
 }
 return 0;
 }
-Sample
